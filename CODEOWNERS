@@ -28,6 +28,6 @@
 # directory at the root of the repository and any of its
 # subdirectories.
 .github/workflows @yuuki1967
-README.MD @yuuki1967
-LICENSE.txt @yuuki1967
-SECURITY.md @yuuki1967
+/README.MD @yuuki1967
+/LICENSE.txt @yuuki1967
+/SECURITY.md @yuuki1967
