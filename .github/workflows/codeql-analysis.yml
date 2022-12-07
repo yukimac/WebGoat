@@ -55,6 +55,7 @@ jobs:
       uses: actions/setup-java@v3.8.0
       with:
         java-version: 15
+        distribution: zulu
     - run: |
         echo "java version"
         java -version
